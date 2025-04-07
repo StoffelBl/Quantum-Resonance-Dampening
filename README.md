@@ -33,7 +33,16 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 For collaboration or inquiries, contact Brandy Stoffel MSN, RN at info@nursereentry.com
 
+## 📄 View the Paper
+
+You can view or download the compiled version of the paper here:  
+👉 [Quantum_Dampening.pdf](https://github.com/StoffelBl/Quantum-Resonance-Dampening/blob/main/Quantum_Dampening.pdf)
+
 ## How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/StoffelBI/Quantum-Resonance-Dampening.git
+   git clone https://github.com/StoffelBl/Quantum-Resonance-Dampening.git
+
+   
+
+   
