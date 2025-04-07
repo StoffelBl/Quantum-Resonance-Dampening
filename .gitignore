@@ -1,0 +1,13 @@
+# Ignore LaTeX files that are not needed in the repository
+*.aux
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.synctex.gz
+
+# Ignore temporary files that might be created by Overleaf
+*.fls
+*.fdb_latexmk
+*.blg
